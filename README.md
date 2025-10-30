@@ -8,7 +8,7 @@ This project demonstrates enterprise-grade cloud engineering by implementing an 
 
 **Key Achievement**: Zero-cost deployment utilizing GCP's free tier while maintaining production-quality architecture and functionality.
 
-## 🏗️ Architecture 
+## 🏗️ Architecture  
 
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────────┐
